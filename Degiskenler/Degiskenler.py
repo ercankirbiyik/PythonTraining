@@ -1,3 +1,10 @@
+# Veri tipleri
+    # Sayılar
+    # Stringler
+    # Listeler
+    # Demetler
+    # Sözlükler
+
 
 print("Hello World")
 
@@ -9,3 +16,10 @@ print(A)
 print(isim)
 print(SehirAdi)
 print(km)
+
+# Veri tipi öğrenme
+
+type(A)
+print(type(A))
+print(type(isim))
+print(type(km))
