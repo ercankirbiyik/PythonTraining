@@ -43,3 +43,7 @@ input("Yaşınız: ")
 
 A = input("Lütfen bir değer giriniz: ")
 print(type(A))
+
+isim = input("Lütfen isminizi giriniz: ")
+soyisim = input("Lütfen soyisminizi giriniz: ")
+yas = input("Lütfen yaşınızı giriniz: ")
