@@ -23,3 +23,11 @@ type(A)
 print(type(A))
 print(type(isim))
 print(type(km))
+
+
+
+ilk_deger = 33
+ikinci_deger = 11
+
+print(ilk_deger * ikinci_deger)
+print(ilk_deger + ikinci_deger)
