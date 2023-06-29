@@ -31,3 +31,15 @@ ikinci_deger = 11
 
 print(ilk_deger * ikinci_deger)
 print(ilk_deger + ikinci_deger)
+
+
+
+# INPUT FONKSİYONU
+    # Kullanıcıların değer girebilmesi için kullanılan fonksiyon
+
+# input()
+
+input("Yaşınız: ")
+
+A = input("Lütfen bir değer giriniz: ")
+print(type(A))
