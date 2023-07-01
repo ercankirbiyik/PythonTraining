@@ -42,8 +42,11 @@ print(ilk_deger + ikinci_deger)
 input("Yaşınız: ")
 
 A = input("Lütfen bir değer giriniz: ")
+# type() fonksiyonu atanılan değerin tipini verir
 print(type(A))
 
 isim = input("Lütfen isminizi giriniz: ")
 soyisim = input("Lütfen soyisminizi giriniz: ")
 yas = input("Lütfen yaşınızı giriniz: ")
+print("")
+print("Merhaba " + isim + " " + soyisim)
