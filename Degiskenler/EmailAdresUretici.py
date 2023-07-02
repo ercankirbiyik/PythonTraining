@@ -1,4 +1,4 @@
-# Kullanıcıdan alınan bilgiler ile şirket uzantısı ile mail adresi üretme
+# Kullanıcıdan alınan bilgilerden şirket uzantısı ile mail adresi üretme
 
 # Kullanıcı bilgisi alma
 User_Name = input("Lütfen adınızı yazınız : ")
