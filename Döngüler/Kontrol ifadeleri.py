@@ -87,5 +87,7 @@ print("*** PASS ÖRNEK 1 ***")
 for sayı in range(35): şeklindeki bir for döngüsü hata alacaktır fakat içine pass yazdığımızda hata almayıp devam edecektir.
 """
 
-for sayı in range(35):
+for sayı3 in range(35):
     pass
+    print("Pass")  # 34 kere pass yazıp 35'i yazmayacaktır.
+
