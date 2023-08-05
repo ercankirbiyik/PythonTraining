@@ -6,19 +6,18 @@
 # Elemanları 1'den başlayıp 1000'e kadar olan bir liste oluşturalım
 # Fakat her elemanı tek tek yazmak çok uzun ve yoruvu olacaktır.
 
+print("****************")
 # Döngü yardımı ile aşağıdaki gibi yapabiliriz
 
-print("****************")
 List = []
 
 for i in range(1000): # Bu döngü bize 0'dan başlayıp 1000'e kadar olan elemanları barındıran listeyi oluşturacaktır.
     List += [i]
 print("Döngü ile oluşturulan liste :", List)
 
+print("****************")
 
 # Döngü olmadan aşağıdaki gibi üreteç yardımı ile listemizi tek satır kod ile oluşturabiliriz.
-
-print("****************")
 
 List2 = [i for i in range(1000)]
 print("Liste üreteci ile oluşturulan liste :", List2)
